@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This template is deprecated, the new template is now on https://github.com/nuxt-ui-templates/starter-vue
+
 # Nuxt UI Starter
 
 Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
